@@ -6,6 +6,12 @@
   font-style: normal;
 }
 
+@media (max-width: 767.98px) {
+  small {
+    font-size: 10px;
+  }
+}
+
 a {
   text-decoration: none;
 }
